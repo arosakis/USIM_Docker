@@ -1,0 +1,9 @@
+**/data_*
+**/.DS_Store
+**/*.asv
+**/*.pth
+**/*.onnx
+**/*.pyca
+**+model
+src/learning/logs
+logs
